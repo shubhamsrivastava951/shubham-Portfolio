@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Human",
+  name: "Shubham",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,109 +20,130 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "This portfolio is a showcase of my Data Science journey and how I have transformed myself. I make the best use of statistics and computer science to provide you insights that can help you make objective decisions. My goal is to make the life of people around me easier and I try to achieve that by Data analysis. I have recently graduated from The University of Sydney (December, 2021) ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
 const skillsBar = [
   {
-    name: "HTML5",
+    name: "Machine Learning",
     // To add a custom svg instead of font-awesome icons, add svg path below otherwise just comment it out
-    svg: "M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z",
-    faClass: "fab fa-html5",
+    //svg: "M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z",
+    faClass: "fas fa-robot",
   },
   {
-    name: "CSS3",
+    name: "Computational Statistics",
     // svg: '',
-    faClass: "fab fa-css3",
+    faClass: "fa fa-bar-chart",
   },
   {
-    name: "Javascript",
+    name: "NLP",
     // svg: '',
-    faClass: "fab fa-js",
+    faClass: "fa fa-language",
   },
   {
-    name: "SASS",
+    name: "Deep Learning",
     // svg: '',
-    faClass: "fab fa-sass",
+    faClass: "fas fa-robot",
   },
   {
-    name: "Node",
+    name: "Tableau",
     // svg: '',
-    faClass: "fab fa-node",
+    faClass: "	fa fa-dashboard",
   },
+
   {
     name: "Python",
     // svg: '',
     faClass: "fab fa-python",
   },
   {
-    name: "Java",
+    name: "C++",
     // svg: '',
     faClass: "fab fa-java",
   },
   {
-    name: "PHP",
+    name: "git",
     // svg: '',
-    faClass: "fab fa-php",
+    faClass: "fab fa-git",
   },
   {
-    name: "Database",
+    name: "HTML & CSS",
+    // svg: '',
+    faClass: "fas fa-code",
+  },
+  {
+    name: "SQL & DBMS",
     // svg: '',
     faClass: "fas fa-database",
   },
   {
-    name: "AWS",
+    name: "R",
     // svg: '',
-    faClass: "fab fa-aws",
+    faClass: "fab fa-r-project",
   },
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
 // You can omit freely anything if you dont have it
 // To Add a Project, copy any one below and paste it after the last comma and increment the id's project number
-const section3Title = "Past Projects";
+const section3Title = "Academic Projects Experiences";
 const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Machine Learning Clustering",
+    skills: ["Python, ML"],
+    url: "https://github.com/shubhamsrivastava951/Machine-Learning-Projects/blob/main/ML_Clustering.ipynb",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Machine Learning Classification",
+    skills: ["python, ML"],
+    url: "https://github.com/shubhamsrivastava951/Machine-Learning-Projects/blob/main/ML_project_2.py",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "NLP",
+    skills: ["python, ML"],
+    url: "https://github.com/shubhamsrivastava951/NLP/blob/main/Sentiment__Analysis.ipynb",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Computational Statistics",
+    skills: ["R, ML"],
+    url: "https://github.com/shubhamsrivastava951/Computational-Statistics-in-R-/blob/main/Bank_Marketing.Rmd",
   },
+
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Research Papers",
+    skills: ["Machine Learning"],
+    url: "https://github.com/shubhamsrivastava951/Research_Paper",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Tableau",
+    skills: ["Tableau"],
+    url: "https://github.com/shubhamsrivastava951/Tableau/blob/main/Tableau%20Project%201.pdf",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project7",
+    name: "Management Projects in IT",
+    skills: ["PM, ITSM"],
+    url: "https://github.com/shubhamsrivastava951/Management-Projects-in-IT-Sectors",
+  },
+  {
+    // Add image in './styles/images.css' in #project4
+    id: "project8",
+    name: "Deep Learning",
+    //skills: ["R, ML"],
+    url: "https://github.com/shubhamsrivastava951/Management-Projects-in-IT-Sectors",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -133,21 +154,22 @@ const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
-    name: "Miscellaneous 1",
-    url: "https://github.com/kaustubhai",
+    name: "My Skills & Certifications",
+    url: "https://github.com/shubhamsrivastava951/About-me/blob/main/My%20Skills%20&%20Certifications",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
-    name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
+    name: "Education & Extra curricular Activities",
+    url: "https://github.com/shubhamsrivastava951/About-me/blob/main/Education",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
-    name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
+    name: "Organisational Experience",
+    url: "https://github.com/shubhamsrivastava951/About-me/blob/main/Experiences",
   },
+
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
 // To get your own jotform link, go to https://formspree.io/
@@ -155,19 +177,17 @@ const miscellaneous = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
-  contactUrl: "",
+    "I am based in Sydney and currently I am focused on building and enhancing my insights for Data Science Projects by exploring various data sets and by handling different types of problems.",
+  copyright: "Shubham Srivastava",
+  contactUrl: "https://www.linkedin.com/in/shubham-srivastava-98b42aa6/",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
-  // twitter: "https://twitter.com",
-  instagram: "https://instagram.com",
-  linkedin: "https://linkedin.com",
-  resume: "https://novoresume.com/",
+  linkedin: "https://www.linkedin.com/in/shubham-srivastava-98b42aa6/",
+
+  github: "https://github.com/shubhamsrivastava951",
+  resume: "https://github.com/shubhamsrivastava951/About-me/blob/main/IT%20Strategy%20%26%20Value.pdf",
 };
 // Dont change anything here
 export {
