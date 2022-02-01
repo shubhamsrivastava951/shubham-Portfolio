@@ -1,43 +1,54 @@
 
 /* Add your profile image here */
 .Photo{
-    background-image: url('https://images.pexels.com/photos/3799821/pexels-photo-3799821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: url('C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Single.png');
 }
 /* Projects Photo */
 .project1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+one');
-    cursor: none;    
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Clustering.png");
+    cursor: none;
 }
 .project2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Classificatio.png");
     cursor: none;
 }
 .project3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\NLP-Project-Ideas.png");
     cursor: none;
 }
 .project4{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\STatic.png");
     cursor: none;
 }
 .project5{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
+    background-image: url('https://via.placeholder.com/400x600.png?text=Research+Papers');
     cursor: none;
 }
 .project6{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Tableau.jpg");
     cursor: none;
 }
+
+.project7{
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Project manahement.jpg");
+    cursor: none;
+}
+
+.project8{
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Deep Learning.png");
+    cursor: none;
+}
+/* M
 /* Miscelaneous Activities photo */
 .misc1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Skills.jpg");
     cursor: none;
 }
 .misc2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Education.png");
     cursor: none;
 }
 .misc3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Experience.png");
     cursor: none;
 }
