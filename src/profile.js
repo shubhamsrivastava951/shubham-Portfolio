@@ -155,19 +155,19 @@ const miscellaneous = [
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
     name: "My Skills & Certifications",
-    url: "https://github.com/shubhamsrivastava951/About-me/blob/main/My%20Skills%20&%20Certifications",
+    url: "https://github.com/shubhamsrivastava951/About-me/blob/main/README.md",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
     name: "Education & Extra curricular Activities",
-    url: "https://github.com/shubhamsrivastava951/About-me/blob/main/Education",
+    url: "https://github.com/shubhamsrivastava951/About-me/blob/main/README.md",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
     name: "Organisational Experience",
-    url: "https://github.com/shubhamsrivastava951/About-me/blob/main/Experiences",
+    url: "https://github.com/shubhamsrivastava951/About-me/blob/main/README.md",
   },
 
 ];
