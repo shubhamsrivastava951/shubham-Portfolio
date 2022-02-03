@@ -93,14 +93,14 @@ const projects = [
     id: "project1",
     name: "Machine Learning Clustering",
     skills: ["Python, ML"],
-    url: "https://github.com/shubhamsrivastava951/Machine-Learning-Projects/blob/main/ML_Clustering.ipynb",
+    url: "https://github.com/shubhamsrivastava951/Machine-Learning-Projects",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "Machine Learning Classification",
     skills: ["python, ML"],
-    url: "https://github.com/shubhamsrivastava951/Machine-Learning-Projects/blob/main/ML_project_2.py",
+    url: "https://github.com/shubhamsrivastava951/Machine-Learning-Projects",
   },
   {
     // Add image in './styles/images.css' in #project3
