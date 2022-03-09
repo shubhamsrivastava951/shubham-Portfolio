@@ -5,7 +5,7 @@
 }
 /* Projects Photo */
 .project1{
-    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Clustering.png");
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Movies.jpg");
     cursor: none;
 }
 .project2{
@@ -25,17 +25,25 @@
     cursor: none;
 }
 .project6{
-    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Tableau.jpg");
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Car.jpg");
     cursor: none;
 }
 
 .project7{
-    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Project manahement.jpg");
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Rain.jpg");
     cursor: none;
 }
 
 .project8{
-    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Deep Learning.png");
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Cotton Disease.png");
+    cursor: none;
+}
+project9{
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Health Care.png");
+    cursor: none;
+}
+project10{
+    background-image: url("C:\Users\Shubham Srivastava\Downloads\shubham0211portfolio\src\styles\Project manahement.png");
     cursor: none;
 }
 /* M
