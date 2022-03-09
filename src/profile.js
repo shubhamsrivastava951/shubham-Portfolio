@@ -92,7 +92,7 @@ const projects = [
     // Add image in './styles/images.css' in #project1
     id: "project1",
     name: "Movie Recommendation",
-    Deployed on: ["Heroku"] ,
+    Deployed: ["Heroku"],
     url: "https://github.com/shubhamsrivastava951/Movies-recommendation",
   },
   {
@@ -128,7 +128,7 @@ const projects = [
     // Add image in './styles/images.css' in #project6
     id: "project6",
     name: "Car Price Prediction",
-    Deployed on: ["Heroku"],
+    Deployed: ["Heroku"],
     url: "https://github.com/shubhamsrivastava951/Car-Price-Prediction",
   },
     
@@ -136,7 +136,7 @@ const projects = [
     // Add image in './styles/images.css' in #project6
     id: "project7",
     name: "Australian Rain Forecast",
-    Deployed on: ["Heroku"]
+    Deployed: ["Heroku"],
     url: "https://github.com/shubhamsrivastava951/Rain-Prediction-Australia",
   },
   
