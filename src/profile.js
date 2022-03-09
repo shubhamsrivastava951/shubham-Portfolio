@@ -91,9 +91,9 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Machine Learning Clustering",
-    skills: ["Python, ML"],
-    url: "https://github.com/shubhamsrivastava951/Machine-Learning-Projects",
+    name: "Movie Recommendation",
+    Deployed on: ["Heroku"] ,
+    url: "https://github.com/shubhamsrivastava951/Movies-recommendation",
   },
   {
     // Add image in './styles/images.css' in #project2
