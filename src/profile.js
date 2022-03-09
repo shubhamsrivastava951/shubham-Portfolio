@@ -127,22 +127,39 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Tableau",
-    skills: ["Tableau"],
-    url: "https://github.com/shubhamsrivastava951/Tableau/blob/main/Tableau%20Project%201.pdf",
+    name: "Car Price Prediction",
+    Deployed on: ["Heroku"],
+    url: "https://github.com/shubhamsrivastava951/Car-Price-Prediction",
   },
-  {
+    
+    {
     // Add image in './styles/images.css' in #project6
     id: "project7",
-    name: "Management Projects in IT",
-    skills: ["PM, ITSM"],
-    url: "https://github.com/shubhamsrivastava951/Management-Projects-in-IT-Sectors",
+    name: "Australian Rain Forecast",
+    Deployed on: ["Heroku"]
+    url: "https://github.com/shubhamsrivastava951/Rain-Prediction-Australia",
   },
+  
   {
     // Add image in './styles/images.css' in #project4
     id: "project8",
-    name: "Deep Learning",
-    //skills: ["R, ML"],
+    name: "Cotton Disease Prediction",
+    skills: ["python, DL"],
+    url: "https://github.com/shubhamsrivastava951/cotton-disease-prediction",
+  },
+    
+    {
+    // Add image in './styles/images.css' in #project4
+    id: "project9",
+    name: " Health Care Disease Prediction",
+    skills: ["python, DL"],
+    url: "https://github.com/shubhamsrivastava951/cotton-disease-prediction",
+  },
+    {
+    // Add image in './styles/images.css' in #project6
+    id: "project10",
+    name: "Management Projects in IT",
+    skills: ["PM, ITSM"],
     url: "https://github.com/shubhamsrivastava951/Management-Projects-in-IT-Sectors",
   },
 ];
