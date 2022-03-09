@@ -204,7 +204,7 @@ const social = {
   linkedin: "https://www.linkedin.com/in/shubham-srivastava-98b42aa6/",
 
   github: "https://github.com/shubhamsrivastava951",
-  resume: "https://github.com/shubhamsrivastava951/About-me/blob/main/IT%20Strategy%20%26%20Value.pdf",
+  resume: "https://github.com/shubhamsrivastava951/About-me/blob/main/My%20Resume%20.pdf",
 };
 // Dont change anything here
 export {
