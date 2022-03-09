@@ -5,7 +5,7 @@
 }
 /* Projects Photo */
 .project1{
-    background-image: url("Clustering.png");
+    background-image: url("Movies.png");
     background-size: 400px 600px;
     cursor: none;
 }
@@ -27,17 +27,27 @@
     cursor: none;
 }
 .project6{
-    background-image: url("Tableau-Logo.png");
+    background-image: url("Car.jpg");
     cursor: none;
 }
 
 .project7{
-    background-image: url("Project%20manahement.jpg");
+    background-image: url("Rain.jpg");
     cursor: none;
 }
 
 .project8{
-    background-image: url("Deep%20Learning.png");
+    background-image: url("Cotton Disease.png");
+    background-size: 300px 400px;
+    cursor: none;
+}
+.project9{
+    background-image: url("Health Care.png");
+    background-size: 300px 400px;
+    cursor: none;
+}
+.project10{
+    background-image: url("Project%20manahement.jpg");
     background-size: 300px 400px;
     cursor: none;
 }
