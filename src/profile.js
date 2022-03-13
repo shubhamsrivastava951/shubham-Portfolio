@@ -158,6 +158,13 @@ const projects = [
     {
     // Add image in './styles/images.css' in #project6
     id: "project10",
+    name: "Tableau",
+    //skills: ["PM, ITSM"],
+    url: "https://github.com/shubhamsrivastava951/Tableau",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project11",
     name: "Management Projects in IT",
     skills: ["PM, ITSM"],
     url: "https://github.com/shubhamsrivastava951/Management-Projects-in-IT-Sectors",
