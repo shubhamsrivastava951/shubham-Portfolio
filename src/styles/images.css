@@ -47,6 +47,11 @@
     cursor: none;
 }
 .project10{
+    background-image: url("Tableau.jpg");
+    background-size: 300px 400px;
+    cursor: none;
+}
+.project11{
     background-image: url("Project manahement.jpg");
     background-size: 300px 400px;
     cursor: none;
