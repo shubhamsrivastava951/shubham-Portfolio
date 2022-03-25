@@ -98,7 +98,7 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Machine Learning Classification",
+    name: "ML & DL Projects",
     skills: ["python, ML"],
     url: "https://github.com/shubhamsrivastava951/Machine-Learning-Projects",
   },
