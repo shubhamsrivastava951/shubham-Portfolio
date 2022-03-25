@@ -153,7 +153,7 @@ const projects = [
     id: "project9",
     name: " Health Care Disease Prediction",
     skills: ["python, DL"],
-    url: "https://github.com/shubhamsrivastava951/cotton-disease-prediction",
+    url: "https://github.com/shubhamsrivastava951/Health-Care",
   },
     {
     // Add image in './styles/images.css' in #project6
