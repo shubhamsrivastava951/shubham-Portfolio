@@ -144,7 +144,7 @@ const projects = [
     // Add image in './styles/images.css' in #project4
     id: "project8",
     name: "Cotton Disease Prediction",
-    skills: ["python, DL"],
+    skills: ["Python, DL"],
     url: "https://github.com/shubhamsrivastava951/cotton-disease-prediction",
   },
     
@@ -152,7 +152,7 @@ const projects = [
     // Add image in './styles/images.css' in #project4
     id: "project9",
     name: " Health Care Disease Prediction",
-    skills: ["python, DL"],
+    skills: ["Python, DL"],
     url: "https://github.com/shubhamsrivastava951/Health-Care",
   },
     {
@@ -211,7 +211,7 @@ const social = {
   linkedin: "https://www.linkedin.com/in/shubham-srivastava-98b42aa6/",
 
   github: "https://github.com/shubhamsrivastava951",
-  resume: "https://github.com/shubhamsrivastava951/About-me/blob/main/My%20Resume%20.pdf",
+  resume: "https://github.com/shubhamsrivastava951/About-me/blob/main/Shubham_Resume.pdf",
 };
 // Dont change anything here
 export {
