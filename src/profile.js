@@ -211,7 +211,7 @@ const social = {
   linkedin: "https://www.linkedin.com/in/shubham-srivastava-98b42aa6/",
 
   github: "https://github.com/shubhamsrivastava951",
-  resume: "https://github.com/shubhamsrivastava951/About-me/blob/main/Shubham%20Srivastava%20Resume.pdf",
+  resume: "https://forms.monday.com/forms/154d98c17f72f6a690338bbb22474dfc?r=use1",
 
 };
 // Dont change anything here
