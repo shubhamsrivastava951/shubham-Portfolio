@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "This portfolio is a showcase of my Data Science journey and how I have transformed myself. I make the best use of statistics and computer science to provide you insights that can help you make objective decisions. My goal is to make the life of people around me easier and I try to achieve that by Data analysis. I have recently graduated from The University of Sydney (December, 2021) ",
+    "This portfolio is a showcase of my Data Science journey and how I have transformed myself. I make the best use of statistics and computer science to provide you insights that can help you make objective decisions. My goal is to make the life of people around me easier and I try to achieve that by Data analysis. I have recently graduated from The University of Sydney (2022) ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
